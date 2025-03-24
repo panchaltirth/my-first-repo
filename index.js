@@ -6,3 +6,5 @@ function greet(name) {
 }
 
 greet("World");
+
+console.log('jsdkfnskdnf');
